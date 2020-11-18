@@ -1,2 +1,2 @@
-# sum-vector-command-line
+### sum-vector-command-line
 Hackrank exercise, summing values in array.
